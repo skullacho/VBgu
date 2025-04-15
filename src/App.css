@@ -4,7 +4,7 @@
 }
 header{
   width: 100%;
-  background-color: #233C98;
+  background-color: #195F97;
 }
 header nav{
   display: flex;
@@ -44,7 +44,7 @@ li{
 footer{
   position: fixed;
   bottom: 0;
-  background-color: #233C98;
+  background-color: #195F97;
   width: 100%;
   color: white;
   padding: 20px;
