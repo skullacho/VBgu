@@ -31,7 +31,7 @@ function App() {
         </div>
       </main>
       <footer>
-        <h3>Desenvolvido por: Frabricio / 2°C TEC</h3>
+        <h3>Desenvolvido por: Pedro / 2°C TEC</h3>
       </footer>
     </>
   );
